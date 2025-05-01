@@ -1,0 +1,14 @@
+threads: 5            # how many accounts to process in parallel
+startup_delay:
+  min: 10
+  max: 15
+retry:
+  attempts: 3
+  delay: 5
+proxy_file: data/proxy.txt
+private_key_file: data/private_key.txt
+invite_file: data/invite.txt
+database: data/monadscore.db
+
+# Optional: one wallet address per line (use instead of private keys)
+wallet_file: data/wallets.txt 
