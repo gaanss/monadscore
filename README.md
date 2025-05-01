@@ -11,9 +11,7 @@
 
 > **Note:** This is free software.
 
-![Interface](interface.png)
-
-This tool automates your interaction with [monadscore.xyz](https://monadscore.xyz) by handling account registration, farming, task execution, and statistics collection.  
+This tool automates your interaction with [monadscore.xyz](https://monadscore.xyz/signup/r/TReE1YK3) by handling account registration, farming, task execution, and statistics collection.  
 
 ---
 
@@ -46,25 +44,16 @@ This tool automates your interaction with [monadscore.xyz](https://monadscore.xy
 
 ## 🛠️ Requirements
 
-- Python 3.9+  
+- Python 3.11  
 - **Virtual environment** best practice  
 - Dependencies managed in `requirements.txt`:
-  ```
-  curl-cffi==0.10.0
-  loguru==0.7.0
-  PyYAML==6.0
-  eth-account>=0.8.0
-  APScheduler==3.9.1
-  PyJWT>=2.8.0
-  ```
-
 ---
 
 ## ⚙️ Installation
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/monnadscore.git
+   git clone https://github.com/gaanss/monadscore.git
    cd monnadscore
    ```
 2. Create & activate a venv  
