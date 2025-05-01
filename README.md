@@ -11,6 +11,8 @@
 
 > **Note:** This is free software.
 
+![Interface](interface.png)
+
 This tool automates your interaction with [monadscore.xyz](https://monadscore.xyz/signup/r/TReE1YK3) by handling account registration, farming, task execution, and statistics collection.  
 
 ---
